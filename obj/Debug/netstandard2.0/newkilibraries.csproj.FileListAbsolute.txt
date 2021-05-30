@@ -1,0 +1,9 @@
+/mnt/9A58A6A158A67C1F/projects/newkilibraries/obj/Debug/netstandard2.0/newkilibraries.csprojAssemblyReference.cache
+/mnt/9A58A6A158A67C1F/projects/newkilibraries/obj/Debug/netstandard2.0/newkilibraries.AssemblyInfoInputs.cache
+/mnt/9A58A6A158A67C1F/projects/newkilibraries/obj/Debug/netstandard2.0/newkilibraries.AssemblyInfo.cs
+/mnt/9A58A6A158A67C1F/projects/newkilibraries/obj/Debug/netstandard2.0/newkilibraries.csproj.CoreCompileInputs.cache
+/mnt/9A58A6A158A67C1F/projects/newkilibraries/bin/Debug/netstandard2.0/newkilibraries.deps.json
+/mnt/9A58A6A158A67C1F/projects/newkilibraries/bin/Debug/netstandard2.0/newkilibraries.dll
+/mnt/9A58A6A158A67C1F/projects/newkilibraries/bin/Debug/netstandard2.0/newkilibraries.pdb
+/mnt/9A58A6A158A67C1F/projects/newkilibraries/obj/Debug/netstandard2.0/newkilibraries.dll
+/mnt/9A58A6A158A67C1F/projects/newkilibraries/obj/Debug/netstandard2.0/newkilibraries.pdb

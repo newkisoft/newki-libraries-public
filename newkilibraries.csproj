@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+     <RootNamespace>newkilibraries</RootNamespace>
+       <PackageId>NewKiTurkeyLibrary</PackageId>
+    <Version>1.6.2</Version>
+    <Authors>Kianoush</Authors>
+    <Company>NewKi</Company>
+    <IsPackable>true</IsPackable> 
+  </PropertyGroup>
+
+  <ItemGroup>    
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="3.1.1" />    
+  </ItemGroup>
+
+</Project>
