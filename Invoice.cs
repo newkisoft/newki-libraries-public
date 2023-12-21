@@ -38,8 +38,10 @@ namespace newkilibraries
         public string Currency {get;set;}        
         public IList<InvoicePallet> InvoicePallets{get;set;}
         public IList<Invoice‌Box> InvoiceBoxes{get;set;}
+        public IList<InvoiceExtra> InvoiceExtras{get;set;}
         public IList<InvoiceDocumentFile> Files{get;set;}
         public IList<InvoicePayment> Payments{get;set;}
+        public IList<InvoiceFulfilment> Labours{get;set;}
         public int OrderId{get;set;}
         public string Comment{get;set;}
         public string DriverName{get;set;}

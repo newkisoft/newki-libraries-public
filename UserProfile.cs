@@ -14,8 +14,7 @@ namespace newkilibraries
         public string Password { get; set; }
         public string ConfirmPassword { get; set; }
         public string OldPassword { get; set; }
-        public string ProfilePicture { get; set; } = "/upload/blank-person.png";
-
+        public string ProfilePicture { get; set; } = "/upload/blank-person.png";        
         public string ApplicationUserId { get; set; }
     }
 }

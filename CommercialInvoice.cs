@@ -10,13 +10,14 @@ namespace newkilibraries
             Files = new List<CommercialInvoiceDocumentFile>();
 
         }        
-        public int CommercialInvoiceId { get; set; }
+        public int CommercialInvoiceId { get; set; }        
                 
         public DateTimeOffset CommercialInvoiceDate { get; set; }
         [Display(Name = "Invoice Due Date")]
         public DateTimeOffset CommercialInvoiceDueDate { get; set; }
 
         public int InvoiceId {get;set;}
+        public int ProformaId { get; set; }
         
         public string Seller{get;set;}   
         public string Consignee{get;set;}

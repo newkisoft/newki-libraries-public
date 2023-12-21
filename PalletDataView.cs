@@ -1,11 +1,15 @@
 ﻿using System.ComponentModel.DataAnnotations.Schema;
+using MongoDB.Bson;
+using MongoDB.Bson.Serialization.Attributes;
+
 
 namespace newkilibraries
 {
     public class PalletDataView
     {        
-        [DatabaseGenerated(DatabaseGeneratedOption.None)]
-        public int PalletId { get; set; }
-        public string Data{get;set;}
+        [BsonId]
+        [BsonRepresentation(BsonType.ObjectId)]    
+        public string Id { get; set; }
+        public Pallet Pallet{get;set;}
     }
 }

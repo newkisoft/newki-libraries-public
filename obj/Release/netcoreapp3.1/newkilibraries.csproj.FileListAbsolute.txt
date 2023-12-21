@@ -1,0 +1,11 @@
+/media/kianoush/Shared/projects/newki-libraries/bin/Release/netcoreapp3.1/newkilibraries.deps.json
+/media/kianoush/Shared/projects/newki-libraries/bin/Release/netcoreapp3.1/newkilibraries.dll
+/media/kianoush/Shared/projects/newki-libraries/bin/Release/netcoreapp3.1/newkilibraries.pdb
+/media/kianoush/Shared/projects/newki-libraries/obj/Release/netcoreapp3.1/newkilibraries.csproj.AssemblyReference.cache
+/media/kianoush/Shared/projects/newki-libraries/obj/Release/netcoreapp3.1/newkilibraries.GeneratedMSBuildEditorConfig.editorconfig
+/media/kianoush/Shared/projects/newki-libraries/obj/Release/netcoreapp3.1/newkilibraries.AssemblyInfoInputs.cache
+/media/kianoush/Shared/projects/newki-libraries/obj/Release/netcoreapp3.1/newkilibraries.AssemblyInfo.cs
+/media/kianoush/Shared/projects/newki-libraries/obj/Release/netcoreapp3.1/newkilibraries.csproj.CoreCompileInputs.cache
+/media/kianoush/Shared/projects/newki-libraries/obj/Release/netcoreapp3.1/newkilibraries.dll
+/media/kianoush/Shared/projects/newki-libraries/obj/Release/netcoreapp3.1/newkilibraries.pdb
+/media/kianoush/Shared/projects/newki-libraries/obj/Release/netcoreapp3.1/newkilibraries.sourcelink.json
